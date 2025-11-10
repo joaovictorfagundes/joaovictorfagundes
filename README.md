@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Victor
 
-💻 Sou desenvolvedor web em <span style="color:#F7DF1E">JavaScript</span>.  
-🔧 As principais tecnologias que utilizo são <span style="color:#61DBFB">React</span> e <span style="color:#68A063">Node.js</span>.  
+💻 Sou desenvolvedor front-end
+🔧 Atualmente trabalho com HTML, CSS e JavaScript, e estou me aprofundando em React para criar interfaces mais dinâmicas e modernas.
 💡 Gosto de transformar ideias em projetos reais e aprender novas tecnologias todos os dias, explorando técnicas e ferramentas cada vez mais avançadas.
 
 ---
