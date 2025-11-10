@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Victor
 
-💻 Sou desenvolvedor front-end
-🔧 Atualmente trabalho com HTML, CSS e JavaScript, e estou me aprofundando em React para criar interfaces mais dinâmicas e modernas.
+💻 Sou desenvolvedor front-end. 
+🔧 Atualmente trabalho com HTML, CSS e JavaScript, e estou me aprofundando em React para criar interfaces mais dinâmicas e modernas. 
 💡 Gosto de transformar ideias em projetos reais e aprender novas tecnologias todos os dias, explorando técnicas e ferramentas cada vez mais avançadas.
 
 ---
